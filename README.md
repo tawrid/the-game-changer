@@ -31,13 +31,13 @@ The game changer is a fun and hobby project to collaborate between the builders 
 * Windows - Windows relevant CVE and/or CWE exploitations and shields
 * Others - Other operating system relevant CVE and/or CWE exploitations and shields. It will be re-categoried later.
 
-4. Under each subcategories, there are actual fun breaking or building or resolution code snippet. For example, under Ubuntu, folder:
-* CVE-2019-19769 folder contains three files. 
-** reference.txt which contains the offical link of the original vulnerability.
-** For breaker, breaker.py, the exploitation code to exploit the vulnerability in Python language.
-** For breaker, breaker_test.py, the exploitation code test case to exploit the vulnerability in Python language.
-** For builder, builder.py, the mitigation code to mitigate the vulnerability in Python language.
-** For builder, builder_test.py, the mitigation code test case to mitigate the vulnerability in Python language.
+4. Under each subcategories, there are actual fun breaking or building or resolution code snippet. 
+For example, under Ubuntu, folder, CVE-2019-19769 folder contains five files:
+* reference.txt which contains the offical link of the original vulnerability.
+* For breaker, breaker.py, the exploitation code to exploit the vulnerability in Python language.
+* For breaker, breaker_test.py, the exploitation code test case to exploit the vulnerability in Python language.
+* For builder, builder.py, the mitigation code to mitigate the vulnerability in Python language.
+* For builder, builder_test.py, the mitigation code test case to mitigate the vulnerability in Python language.
 
 5. The exploitation and/or mitigation code snippets can be written in any language as long as we have file extention. Each file should contain these following fields:
 * Exploitation_Name/Mitigation_Name: <CVE/CWE ID>
@@ -56,3 +56,5 @@ Other Rules:
 * Any offences should be reported and investigated. If its the case, the offender may loose the privilege to contribute temporarily or permanently.
 
 Have fun and bring your best to the game!
+
+![High Level Design Link](https://github.com/tawrid/the-game-changer/blob/main/the-game-changer.png)
