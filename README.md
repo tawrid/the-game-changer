@@ -1,6 +1,6 @@
 # the-game-changer
 
-The game changer is a fun and hobby project to collaborate between the builders and breakers. 
+The game changer is a fun and hobby project to collaborate between the builders and breakers. Technically, the secure world does not magically come to existence until you attempt to build one.
 
 **Vision:**
 
