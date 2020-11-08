@@ -77,6 +77,8 @@ Have fun and bring your best to the game!
 **References:**
 * CAPEC vs CWE vs CVE:
 https://cve.mitre.org/cve_cwe_capec_relationships
+* CAPEC:
+https://capec.mitre.org/data/index.html
 * CVE and CWE Correlation:
 https://www.cvedetails.com/
-* CWE and CAPEC Correlation:
+
