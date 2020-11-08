@@ -1,0 +1,18 @@
+{
+    "Reference":
+    [{
+        "CAPEC": "https://capec.mitre.org/data/definitions/245.html",
+        "CWE": "https://cwe.mitre.org/data/definitions/85.html",
+        "CVE": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-2086"
+    },
+    {
+        "CAPEC": "https://capec.mitre.org/data/definitions/245.html",
+        "CWE": "https://cwe.mitre.org/data/definitions/85.html",
+        "CVE": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0116"
+    },
+    {
+        "CAPEC": "https://capec.mitre.org/data/definitions/245.html",
+        "CWE": "https://cwe.mitre.org/data/definitions/85.html",
+        "CVE": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-1157"
+    }]
+}
